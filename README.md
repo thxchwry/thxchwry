@@ -1,4 +1,4 @@
-## I,m Thidapond Chuanwiriyachan
+## I'm Thidapond Chuanwiriyachan
 
 <!--
 **thxchwry/thxchwry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
